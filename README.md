@@ -1,0 +1,2 @@
+# DiceMan
+KnightHacks2024
