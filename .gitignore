@@ -2,4 +2,5 @@ CMakeLists.txt
 main/CMakeLists.txt
 main/build/
 build/
+managed_components/
 sdkconfig
