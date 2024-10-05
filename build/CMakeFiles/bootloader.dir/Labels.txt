@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/CMakeFiles/bootloader
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/CMakeFiles/bootloader.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/CMakeFiles/bootloader-complete.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

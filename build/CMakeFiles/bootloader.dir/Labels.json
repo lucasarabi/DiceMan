@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
