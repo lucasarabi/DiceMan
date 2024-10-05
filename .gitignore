@@ -1,3 +1,4 @@
 CMakeLists.txt
 main/CMakeLists.txt
 main/build
+sdkconfig
