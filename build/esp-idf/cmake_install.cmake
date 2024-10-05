@@ -539,6 +539,26 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/esp-idf/espressif__cmake_utilities/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/esp-idf/espressif__button/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/esp-idf/lvgl__lvgl/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/esp-idf/espressif__esp_lvgl_port/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("/mnt/c/users/Stinkiest/Desktop/Personal-Coding-Projects/ShellHacks-24/DiceMan/build/esp-idf/main/cmake_install.cmake")
 endif()
 
